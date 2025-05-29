@@ -1,5 +1,4 @@
 import streamlit as st
-import sklearn as sk
 import pandas as pd
 import joblib
 
