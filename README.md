@@ -35,12 +35,12 @@ Tech Stack
 
  Layer                  Tool / Language     
 
- ML Model          Random Forest Classifier (sklearn) 
+ ML Model           Random Forest Classifier (sklearn) 
  Frontend           Streamlit           
  Data Prep          Pandas, Seaborn, Numpy     
- Environment   Google Colab + Python 
- Deployment     Streamlit Cloud / Localhost 
- Versioning       Git & GitHub   
+ Environment        Google Colab + Python 
+ Deployment         Streamlit Cloud / Localhost 
+ Versioning         Git & GitHub   
 
 
  ML Workflow
@@ -102,7 +102,8 @@ App Link :-  https://crop-recommendation-system-kwzkgofvhjdkcxzqp5wmuw.streamlit
                    
 
 Author :
-Your Name : Jayesh Sanjay Patil  / Username :  Jack-tech32
+Name : Jayesh Sanjay Patil  
+Username :  Jack-tech32
 Final Year B.Tech Student (Data Science)  
 Crop Recommendation System – Major Project
 
