@@ -62,9 +62,9 @@ Tech Stack
 
 5. Evaluation:
    
-- Classification report
+- Classification report 
 
-  ![image](https://github.com/user-attachments/assets/93012122-1f2c-4251-bee9-7fa01d6ad248)
+![image](https://github.com/user-attachments/assets/93012122-1f2c-4251-bee9-7fa01d6ad248)
 
  
 - Confusion matrix visualization
