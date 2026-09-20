@@ -11,7 +11,7 @@ Built as a final-year major project, this system uses real-world agricultural da
 in precision farming.
 
 
- Project Objective
+ Project Objective 
  
 
 To build an end-to-end crop recommendation system using machine learning that:
@@ -20,7 +20,7 @@ To build an end-to-end crop recommendation system using machine learning that:
 - Provides an easy-to-use web interface built with Streamlit
 - Can be deployed and shared via GitHub and Streamlit Cloud
 
-Dataset
+Dataset 
 
 -  Name: Crop_recommendation.csv
 -  Records: 2200 rows × 8 columns
