@@ -105,11 +105,11 @@ Author :
 Name : Jayesh Sanjay Patil  
 Username :  Jack-tech32
 Final Year B.Tech Student (Data Science)  
-Crop Recommendation System – Major Project
+Crop Recommendation System 
 
 Acknowledgements :
 
-- Dataset from Kaggle 
+- Dataset from Kaggle
 - Built using Streamlit, Scikit-learn, and Python  
 - Special thanks to professors, mentors & peers for support
 
