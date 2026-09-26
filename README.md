@@ -111,5 +111,4 @@ Acknowledgements :
 
 - Dataset from Kaggle
 - Built using Streamlit, Scikit-learn, and Python  
-- Special thanks to professors, mentors & peers for support
-
+- Special thanks to professors, mentors & peers for supports
