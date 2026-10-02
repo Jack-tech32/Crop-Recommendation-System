@@ -23,7 +23,7 @@ To build an end-to-end crop recommendation system using machine learning that:
 Dataset 
 
 -  Name: Crop_recommendation.csv
--  Records: 2200 rows × 8 columns
+-  Records: 2200 rows + 8 Columns 
 -  Features:
   - N, P, K — Nitrogen, Phosphorus, Potassium levels in soil
   - temperature, humidity, ph, rainfall — Environmental factors
